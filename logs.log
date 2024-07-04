@@ -1,3 +1,9 @@
 2024-06-22 11:15:57,733:WARNING:/Users/paritoshsharma/Desktop/EXLgenAI/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
   warnings.warn(
 
+2024-06-26 15:20:04,467:WARNING:/Users/paritoshsharma/Desktop/EXLgenAI/lib/python3.9/site-packages/IPython/core/formatters.py:344: FutureWarning: Index.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
+2024-06-26 15:20:04,471:WARNING:/Users/paritoshsharma/Desktop/EXLgenAI/lib/python3.9/site-packages/IPython/core/formatters.py:344: FutureWarning: RangeIndex.format is deprecated and will be removed in a future version. Convert using index.astype(str) or index.map(formatter) instead.
+  return method()
+
